@@ -1,0 +1,6 @@
+{
+  "name": "KrishiMandi",
+  "description": "Indian Mandi Agricultural Crop Price Analytics, Daily & Historical Trends, Price Alerts, Weather Sell-Advisor & Offline Sync",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
